@@ -1,12 +1,9 @@
 <script setup>
-
-import RandomCodeGenerator from './Projects/RandomQuote/RandomCodeGenerator.vue';
-
-
+import AmazingCalculator from "./Projects/Calculator/AmazingCalculator.vue";
 </script>
 
 <template>
   <div>
-    <random-code-generator/>
+    <AmazingCalculator />
   </div>
 </template>
