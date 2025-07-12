@@ -1,9 +1,12 @@
 <script setup>
-import TodoProj from "./Projects/TodoApp/TodoProj.vue";
+
+import RandomCodeGenerator from './Projects/RandomQuote/RandomCodeGenerator.vue';
+
+
 </script>
 
 <template>
   <div>
-    <TodoProj />
+    <random-code-generator/>
   </div>
 </template>
