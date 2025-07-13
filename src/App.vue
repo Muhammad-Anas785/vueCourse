@@ -1,9 +1,9 @@
 <script setup>
-import AmazingCalculator from "./Projects/Calculator/AmazingCalculator.vue";
+import AccordionsProj from "./Projects/Accordions/AccordionsProj.vue";
 </script>
 
 <template>
   <div>
-    <AmazingCalculator />
+    <AccordionsProj />
   </div>
 </template>
