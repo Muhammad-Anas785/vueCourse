@@ -1,9 +1,9 @@
 <script setup>
-import AccordionsProj from "./Projects/Accordions/AccordionsProj.vue";
+import FormValid from "./Projects/FormValidation/FormValid.vue";
 </script>
 
 <template>
   <div>
-    <AccordionsProj />
+    <form-valid />
   </div>
 </template>
