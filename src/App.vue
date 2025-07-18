@@ -1,9 +1,9 @@
 <script setup>
-import FormValid from "./Projects/FormValidation/FormValid.vue";
+import WikiClone from "./Projects/WikiPedia/WikiClone.vue";
 </script>
 
 <template>
   <div>
-    <form-valid />
+    <wiki-clone />
   </div>
 </template>
