@@ -1,9 +1,9 @@
 <script setup>
-import WikiClone from "./Projects/WikiPedia/WikiClone.vue";
+import DefaultLayout from "./Layouts/DefaultLayout.vue";
 </script>
 
 <template>
   <div>
-    <wiki-clone />
+    <DefaultLayout />
   </div>
 </template>
