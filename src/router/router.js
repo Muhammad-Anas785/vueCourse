@@ -1,6 +1,5 @@
 import AdminLayout from "@/Layouts/AdminLayout.vue";
 import DefaultLayout from "@/Layouts/DefaultLayout.vue";
-import AboutView from "@/views/AboutView.vue";
 import AdminDashboard from "@/views/AdminDashboard.vue";
 import AdminUsers from "@/views/AdminUsers.vue";
 import HomeView from "@/views/HomeView.vue";
